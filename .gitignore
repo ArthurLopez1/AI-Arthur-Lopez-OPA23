@@ -161,3 +161,6 @@ cython_debug/
 labs/datasets
 lab_1/datasets
 lab_2/datasets
+
+cat*
+dog*
