@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 labs/datasets
 lab_1/datasets
-lab_2/datasets
+lab_2/original_data
 
 cat*
 dog*
